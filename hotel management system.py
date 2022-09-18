@@ -5,7 +5,6 @@ from Customerlist import*
 from Checkin import*
 from add_customer_details import*
 from roomlist import*
-from checkout import*
 import mysql.connector
 
 print("Started")
