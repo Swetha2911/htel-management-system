@@ -8,7 +8,7 @@ con = mysql.connector.connect(host="127.0.0.1",user="root",password="Aline-12#")
 cur = con.cursor()
 
 
-custTable="cust" #Customer Table
+custTable="cust" 
 def View(): 
     
     root = Tk()
